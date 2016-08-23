@@ -1,0 +1,8 @@
+venv/
+*.log
+.DS_Store
+saint_johns_secrets.txt
+db.sqlite3
+__pycache__/
+saint_johns_notes.txt
+
